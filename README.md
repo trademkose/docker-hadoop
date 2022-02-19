@@ -222,4 +222,6 @@ and add hostname to /etc/hosts on your windows machine.
 127.0.0.1	localhost   namenode datanode1 datanode2 datanode3
 ::1             localhost namenode datanode1 datanode2 datanode3
 ```
+It works :)
+![image](https://user-images.githubusercontent.com/7984679/154796200-833de181-d77e-4d56-9251-bd734c1831a4.png)
 
